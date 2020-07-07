@@ -1,6 +1,6 @@
 # inAppWebView
 
-A new Flutter project.
+Demo application using InAppWebView widget
 
 ## Getting Started
 
